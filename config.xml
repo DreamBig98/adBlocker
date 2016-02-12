@@ -7,7 +7,7 @@
     <author email="info@omtamil.com" href="http://omtamil.com">
        DreamBigStudios
     </author>
-    <content src="MainActivity.html" />
+    <content src="index.html" />
     
     <access origin="*" />
     <preference name="KeyboardDisplayRequiresUserAction" value="true" />
