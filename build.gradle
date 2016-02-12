@@ -18,3 +18,15 @@ allprojects {
         maven { url "https://jitpack.io" }
     }
 }
+repositories {
+    maven {
+        url "https://jitpack.io"
+    }
+}
+```
+
+And add the library to your module **build.gradle**:
+```Java
+dependencies {
+    compile 'com.github.javiersantos:AdBlockerAdvise:1.1'
+}
